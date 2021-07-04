@@ -1,6 +1,6 @@
 <p align="center">
 
-  <a href="#"><img src="shang.jpg" alt="edisonlee55 Banner"></a>
+  <a href="#"><img src="shang.jpg" alt="whzsyx Banner"></a>
 
 </p>
 
@@ -12,14 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/whzsyx"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
-</p>
-<p align="center">
-  <strong><a href="#">Official Website</a></strong> |
-  <strong><a href="#">Twitter</a></strong> |
-  <strong><a href="#">Discord</a></strong> |
-  <strong><a href="#">LinkedIn</a></strong> |
-  <strong><a href="#">Twitch</a></strong>
+  <a href="https://github.com/whzsyx"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="whzsyx's github stats"></a>
 </p>
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 <!--
