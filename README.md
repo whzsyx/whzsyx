@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/whzsyx"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="whzsyx's github stats"></a>
+  <a href="https://github.com/whzsyx"><img src="https://github-readme-stats.vercel.app/api?username=whzsyx&hide_border=true&show_icons=true" alt="whzsyx's github stats"></a>
 </p>
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 <!--
